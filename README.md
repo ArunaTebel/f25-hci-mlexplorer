@@ -1,6 +1,6 @@
 # ML Explorer - Online Course Platform UI Prototype
 
-A modern, interactive web application prototype for an online course platform focused on Machine Learning education. This is a static website built with React, designed to demonstrate UI/UX concepts and HCI principles.
+An interactive web application prototype for an online course platform focused on Machine Learning education. This is a static website built with React, designed to demonstrate UI/UX concepts and HCI principles.
 
 ## Features
 
